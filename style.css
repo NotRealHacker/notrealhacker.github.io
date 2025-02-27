@@ -1,0 +1,51 @@
+
+
+body {
+    /*
+    https://pixabay.com/photos/anonymous-collective-secret-hacker-4165613/
+    */
+    background-image: url('\\images\\anonymous-4165613_1920.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position: relative;
+}
+
+
+
+h1 {
+    color: red;
+    text-align: center;
+    text-shadow: 2px 2px 5px black; /* Better visibility */
+}
+
+
+#header_text {
+    color: red;
+    text-align: center;
+    text-shadow: 2px 2px 5px black; /* Better visibility */
+}
+
+
+
+button{
+    color: rgb(146, 22, 22);
+    font-size: px;
+    background-color: azure;
+    border-radius: 5px;
+}
+
+header {
+    background-color: #111010;
+    color: #fff;
+    padding: 10px;
+    align-items: center;
+}
+
+footer {
+    
+    background-color: #111010;
+    color: #ff0000;
+    padding: 10px;
+}
